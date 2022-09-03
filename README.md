@@ -9,3 +9,7 @@ I did a first quick test, called of course `test.asm`, including the header file
 ## Docs
 
 I am trolling the web to find and archive docs about the TRS-80 M100. Anything that looks useful will be dumped in `Docs`.
+
+## CO_FILES
+
+I can't remember just now where I found these, but I will link back when I do. The idea here is to archive, not steal :-)
