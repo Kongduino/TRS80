@@ -16,5 +16,7 @@ I am trolling the web to find and archive docs about the TRS-80 M100. Anything t
 
 I can't remember just now where I found these, but I will link back when I do. The idea here is to archive, not steal :-)
 
+## Random Photos
+
 ![My T102](img/T102.jpg)
 My T102 as of 2022/08/28
